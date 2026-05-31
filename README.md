@@ -176,7 +176,7 @@ google-stock-price-forecasting-lstm/
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/google-stock-price-forecasting-lstm.git
+git clone https://github.com/elijah-appiah/deep-learning-LSTM-stock-forecasting.git
 ```
 
 Navigate to the project directory:
