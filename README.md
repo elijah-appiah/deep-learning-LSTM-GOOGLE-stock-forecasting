@@ -176,13 +176,13 @@ google-stock-price-forecasting-lstm/
 Clone the repository:
 
 ```bash
-git clone https://github.com/elijah-appiah/deep-learning-LSTM-stock-forecasting.git
+git clone https://github.com/elijah-appiah/deep-learning-LSTM-GOOGLE-stock-forecasting.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd deep-learning-LSTM-stock-forecasting
+cd deep-learning-LSTM-GOOGLE-stock-forecasting
 ```
 
 Install the required packages:
